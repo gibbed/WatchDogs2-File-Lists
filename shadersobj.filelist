@@ -1,4 +1,4 @@
-; 47358/50334 (94%)
+; 47359/50334 (94%)
 engine\shaders\fastinitdata.bin
 engine\shaders\obj\h00\compute_15bfca9ab27dbe80.cso
 engine\shaders\obj\h00\compute_1a21b8c3c99b9280.cso
@@ -47357,3 +47357,4 @@ engine\shaders\obj\index.rs
 engine\shaders\obj\index.vds
 engine\shaders\obj\index.vso
 engine\shaders\obj\shaderscrc__1800.crc
+engine\shaders\shaders.crc

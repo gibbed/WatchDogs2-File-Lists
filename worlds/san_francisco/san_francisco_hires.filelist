@@ -1,4 +1,4 @@
-; 17900/18164 (98%)
+; 17926/18164 (98%)
 graphics\_generic_textures\_semi_generic\dock_crane_01_n_high.xbt
 graphics\_generic_textures\_semi_generic\dock_crane_01_n_med.xbt
 graphics\_generic_textures\concrete\asphalt_01_n_high.xbt
@@ -14109,6 +14109,32 @@ graphics\_geometries\vegetation\static\white_cedar_hedge_kit_01\white_cedar_hedg
 graphics\_geometries\vegetation\static\white_cedar_hedge_kit_01\white_cedar_hedge_kit_01_side_cap.high.xbgmip
 graphics\_geometries\vegetation\static\white_sage_kit_01\white_sage_kit_01_med_01.high.xbgmip
 graphics\_geometries\vegetation\static\white_sage_kit_01\white_sage_kit_01_small_01.high.xbgmip
+graphics\_geometries\vegetation\trees\black_acacia\black_acacia_01_trunk.high.xbgmip
+graphics\_geometries\vegetation\trees\chinese_banyan\banyan_01_trunk.high.xbgmip
+graphics\_geometries\vegetation\trees\chinese_banyan\banyan_02_trunk.high.xbgmip
+graphics\_geometries\vegetation\trees\chinese_banyan\banyan_03_trunk.high.xbgmip
+graphics\_geometries\vegetation\trees\chinese_banyan\banyan_04_trunk.high.xbgmip
+graphics\_geometries\vegetation\trees\chinese_banyan\banyan_05_trunk.high.xbgmip
+graphics\_geometries\vegetation\trees\chinese_banyan\clusters\banyan_cl_01.high.xbgmip
+graphics\_geometries\vegetation\trees\chinese_banyan\clusters\banyan_cl_03.high.xbgmip
+graphics\_geometries\vegetation\trees\date_palm\date_palm_03_trunk.high.xbgmip
+graphics\_geometries\vegetation\trees\dracaena_palm\clusters\dracaena_cl_04.high.xbgmip
+graphics\_geometries\vegetation\trees\dracaena_palm\dracaena_02_trunk.high.xbgmip
+graphics\_geometries\vegetation\trees\lemon_bottlebrush\bottlebrush_01_trunk.high.xbgmip
+graphics\_geometries\vegetation\trees\lemon_bottlebrush\bottlebrush_02_trunk.high.xbgmip
+graphics\_geometries\vegetation\trees\lemon_bottlebrush\clusters\bottlebrush_cl_01.high.xbgmip
+graphics\_geometries\vegetation\trees\lemon_bottlebrush\clusters\bottlebrush_cl_02.high.xbgmip
+graphics\_geometries\vegetation\trees\live_oak\live_oak_04_trunk.high.xbgmip
+graphics\_geometries\vegetation\trees\live_oak\live_oak_06_nowind_trunk.high.xbgmip
+graphics\_geometries\vegetation\trees\mexican_fan_palm\clusters\mexican_fan_palm_cl_05b.high.xbgmip
+graphics\_geometries\vegetation\trees\mexican_fan_palm\clusters\mexican_fan_palm_cl_06a.high.xbgmip
+graphics\_geometries\vegetation\trees\mexican_fan_palm\clusters\mexican_fan_palm_cl_06b.high.xbgmip
+graphics\_geometries\vegetation\trees\mexican_fan_palm\mexican_fan_palm_02_trunk.high.xbgmip
+graphics\_geometries\vegetation\trees\mexican_fan_palm\mexican_fan_palm_03_trunk.high.xbgmip
+graphics\_geometries\vegetation\trees\mexican_fan_palm\mexican_fan_palm_04_trunk.high.xbgmip
+graphics\_geometries\vegetation\trees\mexican_fan_palm\mexican_fan_palm_8m_trunk.high.xbgmip
+graphics\_geometries\vegetation\trees\queen_palm\queen_palm_03_trunk.high.xbgmip
+graphics\_geometries\vegetation\trees\queen_palm\queen_palm_04_trunk.high.xbgmip
 graphics\_geometries\vegetation\vines\buganvilla\buganvilla_kit_01_wall_2x2m_01.high.xbgmip
 graphics\_geometries\vegetation\vines\buganvilla\buganvilla_kit_01_wall_2x2m_01.medium.xbgmip
 graphics\_geometries\vegetation\vines\buganvilla\buganvilla_kit_01_wall_piece_01.high.xbgmip

@@ -1,4 +1,4 @@
-; 8946/9050 (98%)
+; 8967/9050 (99%)
 {fa5e98d1-9887-491b-ad84-7c250e55c299}
 engine\shaders\wavebase_high.xbt
 engine\shaders\wavebase_med.xbt
@@ -5567,6 +5567,26 @@ graphics\_geometries\vegetation\static\vegetable_garden_kit_01\vegetable_garden_
 graphics\_geometries\vegetation\static\white_cedar_pyramidal_kit_01\white_cedar_pyramidal_kit_01_med_01.high.xbgmip
 graphics\_geometries\vegetation\static\white_cedar_pyramidal_kit_01\white_cedar_pyramidal_kit_01_small_01.high.xbgmip
 graphics\_geometries\vegetation\static\white_sage_kit_01\white_sage_kit_01_small_01_bk.high.xbgmip
+graphics\_geometries\vegetation\trees\black_acacia\black_acacia_02_trunk.high.xbgmip
+graphics\_geometries\vegetation\trees\black_acacia\clusters\black_acacia_cl_01.high.xbgmip
+graphics\_geometries\vegetation\trees\date_palm\clusters\date_palm_cl_01.high.xbgmip
+graphics\_geometries\vegetation\trees\date_palm\clusters\date_palm_cl_02.high.xbgmip
+graphics\_geometries\vegetation\trees\date_palm\clusters\date_palm_cl_03.high.xbgmip
+graphics\_geometries\vegetation\trees\date_palm\date_palm_01_trunk.high.xbgmip
+graphics\_geometries\vegetation\trees\date_palm\date_palm_02_trunk.high.xbgmip
+graphics\_geometries\vegetation\trees\dracaena_palm\clusters\dracaena_cl_01.high.xbgmip
+graphics\_geometries\vegetation\trees\dracaena_palm\clusters\dracaena_cl_02.high.xbgmip
+graphics\_geometries\vegetation\trees\dracaena_palm\clusters\dracaena_cl_03.high.xbgmip
+graphics\_geometries\vegetation\trees\dracaena_palm\dracaena_01_trunk.high.xbgmip
+graphics\_geometries\vegetation\trees\live_oak\clusters\live_oak_cl_04.high.xbgmip
+graphics\_geometries\vegetation\trees\live_oak\live_oak_05_trunk.high.xbgmip
+graphics\_geometries\vegetation\trees\live_oak\live_oak_06_trunk.high.xbgmip
+graphics\_geometries\vegetation\trees\mexican_fan_palm\clusters\mexican_fan_palm_cl_01.high.xbgmip
+graphics\_geometries\vegetation\trees\mexican_fan_palm\clusters\mexican_fan_palm_cl_03.high.xbgmip
+graphics\_geometries\vegetation\trees\mexican_fan_palm\clusters\mexican_fan_palm_cl_04.high.xbgmip
+graphics\_geometries\vegetation\trees\queen_palm\clusters\queen_palm_cl_01.high.xbgmip
+graphics\_geometries\vegetation\trees\queen_palm\clusters\queen_palm_cl_02.high.xbgmip
+graphics\_geometries\vegetation\trees\queen_palm\queen_palm_04_nowind_trunk.high.xbgmip
 graphics\_geometries\vegetation\vines\ivy\ivy_kit_01_wall_1x1m_01.high.xbgmip
 graphics\_geometries\vegetation\vines\ivy\ivy_kit_01_wall_1x1m_02.high.xbgmip
 graphics\_geometries\weapon\ammo_pickup_assault_rifle_01.high.xbgmip
@@ -8677,6 +8697,7 @@ soundbinary\758625176.wem
 soundbinary\759018172.wem
 soundbinary\760210397.wem
 soundbinary\761501416.wem
+soundbinary\763706055.wem
 soundbinary\763833014.wem
 soundbinary\764791434.wem
 soundbinary\765093509.wem

@@ -1,6 +1,7 @@
-; 911/13965 (6%)
+; 939/13965 (6%)
 aireactions\aireactions_human_animation.fzl
 aireactions\aireactions_human_animation.fzl.debug
+animations\locomotion\driving\b00-000-00_civilian-passengerbl-vehicle-exit-relaxed-offroad_mcivi.markup.bin
 animations\objects\hacker-space\b25-061-02_hackerspace-3dprinter-exit-pc_mplyr_000f_norm_nowep.mab
 animations\takedown\robot\b20-010-04_tkdown-robot-01_robot.mab
 animations\takedown\robot\b20-010-04_tkdown-robot-01_robot_090l.mab
@@ -528,6 +529,7 @@ engine\shaders\obj\index.pso
 engine\shaders\obj\index.rs
 engine\shaders\obj\index.vso
 engine\shaders\obj\shaderscrc__1800.crc
+engine\shaders\shaders.crc
 engine\shaders\usage.bin
 generated\common_depload.dat
 generated\common_resources.vecres
@@ -540,6 +542,7 @@ generated\databases\generic\chaselevelparameters.lib
 generated\databases\generic\chaseperformanceconfig.lib
 generated\databases\generic\chasesearchparams.lib
 generated\databases\generic\chopperreinforcementconfig.lib
+generated\databases\generic\clocreationsettings_robot.lib
 generated\databases\generic\contactappmpgamemode.lib
 generated\databases\generic\conversationsetting.lib
 generated\databases\generic\convoygameplaybrick.lib
@@ -662,6 +665,22 @@ graphics\vehicles_nexus\land\heavy\heavy_mrap\heavy_mrap.hkx
 graphics\vehicles_nexus\land\heavy\heavy_mrap\heavy_mrap.xbg
 graphics\vehicles_nexus\land\heavy\heavy_mrap\heavy_mrap_ref.skeleton
 graphics\vehicles_nexus\land\traffic\traffic_subcompact_05\traffic_subcompact_05.hkx
+languages\arabic\oasisstrings.rml
+languages\brazilian\oasisstrings.rml
+languages\chs\oasisstrings.rml
+languages\cht\oasisstrings.rml
+languages\czech\oasisstrings.rml
+languages\danish\oasisstrings.rml
+languages\dutch\oasisstrings.rml
+languages\english\oasisstrings.rml
+languages\fakelongenglish\oasisstrings.rml
+languages\finnish\oasisstrings.rml
+languages\french\oasisstrings.rml
+languages\german\oasisstrings.rml
+languages\hungarian\oasisstrings.rml
+languages\italian\oasisstrings.rml
+languages\japanese\oasisstrings.rml
+languages\korean\oasisstrings.rml
 languages\main_arabic.loc
 languages\main_brazilian.loc
 languages\main_chs.loc
@@ -685,6 +704,13 @@ languages\main_portugueseportugal.loc
 languages\main_russian.loc
 languages\main_spanish.loc
 languages\main_swedish.loc
+languages\mexican\oasisstrings.rml
+languages\norwegian\oasisstrings.rml
+languages\polish\oasisstrings.rml
+languages\portugueseportugal\oasisstrings.rml
+languages\russian\oasisstrings.rml
+languages\spanish\oasisstrings.rml
+languages\swedish\oasisstrings.rml
 missions\brick_flows\dgo\dgo_thevirusbrickflow.container.brickflow.rml
 move\decisiontrees\player-ai\vehicles\pawn_generic_vehicle_getout_part1.move.bin
 move\decisiontrees\player-ai\vehicles\pawn_generic_vehicle_getout_part2.move.bin
@@ -698,6 +724,7 @@ sequences\common\a01_m01_white_loop.cseq
 sequences\common\blackscreen_nofade.cseq
 sequences\common\fixerfantasycamera_in.cseq
 sequences\common\fixerfantasycamera_out.cseq
+sequences\common\nethack_transitionin.cseq
 sequences\health_20.cseq
 sequences\health_40.cseq
 sequences\health_60.cseq
@@ -726,6 +753,7 @@ soundbinary\3212543191.bnk
 soundbinary\3358571997.bnk
 soundbinary\3542604798.bnk
 soundbinary\366816156.wem
+soundbinary\3731193268.bnk
 soundbinary\3962847027.bnk
 soundbinary\4251605328.bnk
 soundbinary\4254899713.bnk
